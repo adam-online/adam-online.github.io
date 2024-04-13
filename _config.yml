@@ -36,6 +36,13 @@ plugins:
 header_pages:
   - now.md
 
+# minima:
+#   social_links:
+#     - { platform: substack, user_url: "https://adamisfigurin.substack.com/" }
+#     - { platform: twitter, user_url: "https://twitter.com/adamisfigurin" }
+#     - { platform: youtube, user_url: "https://www.youtube.com/@adamisom4295" }
+#     - { platform: instagram,  user_url: "https://www.instagram.com/adamisfigurin/" }
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
