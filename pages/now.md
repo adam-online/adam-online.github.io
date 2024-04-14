@@ -1,6 +1,6 @@
 ---
 layout: page
-title: now
+title: /now
 permalink: /now/
 ---
 

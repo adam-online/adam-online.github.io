@@ -8,19 +8,19 @@ layout: home
 <style>
 /*	#selfie { border-radius: 50%; padding-left: 0.25em; padding-right: 0.25em;}*/
 	#selfie { border-radius: 50%; }
-	#me-lg { text-align: center; font-size: 3em; }
-	#me-md { text-align: center; font-size: 2em; }
-	#me-sm { text-align: center; font-size: 1.5em; }
+	.center { text-align: center; }
+	#me-lg { font-size: 2.75em; margin-bottom: 0; }
+	#me-md { font-size: 2em; }
+/*	#me-sm { font-size: 1em; }*/
 </style>
 
-<p id="me-lg">this guy 👉 <img id="selfie" src="../img/me.jpg" width="80" /></p>
-<p id="me-md">👋 hi! 😊 ...also here:</p>
-<!-- <h2 class="me2">and also here:</h2> -->
+<p class="center" id="me-lg">this guy <img id="selfie" src="../img/me.jpg" width="60" /></p>
+<p class="center" id="me-md">👋 hi! 😊</p>
 
-<!-- <h1>saying hi<img class="me" src="../img/me.jpg" width="60" />👋</h1> -->
-<!-- me^ -->
+---
 
-TODO: social links here
+find me also on
+<!-- ![image](./img/substack.png) -->
 
 ---
 
