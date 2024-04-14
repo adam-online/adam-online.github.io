@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - now.md
+  - pages/now.md
 
 # minima:
 #   social_links:
